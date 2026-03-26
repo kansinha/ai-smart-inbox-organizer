@@ -2,19 +2,17 @@
 
 An AI-powered email classification system that helps users prioritize and manage their inbox efficiently.
 
+## Built for
+AI BIZ Club × Lovable Product Pitch Challenge University of Texas at Dallas — March 2025
+
  (<img width="353" height="464" alt="Screenshot 2026-03-25 231116" src="https://github.com/user-attachments/assets/84c94459-fe68-47d0-b2aa-64e65c06d0fe" />
 )
 
-## Features
-- ML-based email classification
-- LLM fallback using Gemini AI
-- Smart categorization:
-  - Important
-  - Notification
-  - Newsletter
-  - Promotion
-  - Job Alert
-- Action suggestions for each category
+## What it does
+- Classifies emails into 5 categories: Important, Notification, Newsletter, Promotion, Job Alert
+- Uses TF-IDF + Logistic Regression for fast ML classification
+- Automatically escalates low-confidence predictions to LLM(gemini)
+- Live analytics dashboard showing inbox category distribution
 
 ## Architecture
 - Frontend: Lovable (UI)
