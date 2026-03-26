@@ -2,7 +2,7 @@
 
 An AI-powered email classification system that helps users prioritize and manage their inbox efficiently.
 
-A screenshot of the app (<img width="753" height="864" alt="Screenshot 2026-03-25 231116" src="https://github.com/user-attachments/assets/84c94459-fe68-47d0-b2aa-64e65c06d0fe" />
+ (<img width="353" height="464" alt="Screenshot 2026-03-25 231116" src="https://github.com/user-attachments/assets/84c94459-fe68-47d0-b2aa-64e65c06d0fe" />
 )
 
 ## Features
